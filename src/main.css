@@ -1,0 +1,41 @@
+.header {
+  background-color: #daecf3;
+  color: #022d41;
+  font-family: sans-serif;
+  font-size: 35px;
+  height: 250px;
+  margin: -8px;
+  padding: 45px;
+  text-align: center;
+}
+
+.tagline {
+  padding-top: 10px;
+  color: #daecf3;
+  background-color: #022d41;
+  font-family: sans-serif;
+  height: 150px;
+  margin: -20px -8px;
+  border-bottom: 2px solid #fe424d;
+  font-size: 20px;
+}
+
+
+.skills {
+  padding-top: 10px;
+  background-color: #fe424d;
+  color: #daecf3;
+  font-family: sans-serif;
+  margin: -20px -8px;
+  height: 250px;
+  font-size: 20px;
+}
+
+.contact {
+  background-color: #fe424d;
+  color: #022d41;
+  font-family: sans-serif;
+  text-align: center;
+  margin: -20px -8px;
+  
+}
